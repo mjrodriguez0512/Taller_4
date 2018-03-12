@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">O Clima</string>
+    <string name="hello_world">¡Olá Mundo!</string>
+    <string name="action_settings">Ajustes</string>
+
+    <string name="lunes">segunda-feira</string>
+    <string name="martes">terça-feira</string>
+    <string name="miercoles">quarta-feira</string>
+    <string name="jueves">quinta-feira</string>
+    <string name="viernes">sexta-feira</string>
+    <string name="sabado">sabado</string>
+    <string name="domingo">domingo</string>
+
+    <string name="lluvia">Chuva</string>
+    <string name="nublado">Nublado</string>
+    <string name="soleado">Ensolarado</string>
+    <string name="Bruma">Névoa</string>
+</resources>

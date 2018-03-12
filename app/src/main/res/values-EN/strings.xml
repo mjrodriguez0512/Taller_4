@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The Weather</string>
+    <string name="hello_world">¡Hello World!</string>
+    <string name="action_settings">Adjustments</string>
+    <string name="lunes">Monday</string>
+    <string name="martes">Tuesday</string>
+    <string name="miercoles">Wednesday</string>
+    <string name="jueves">Thursday</string>
+    <string name="viernes">Friday</string>
+    <string name="sabado">Saturday</string>
+    <string name="domingo">Sunday</string>
+
+    <string name="lluvia">Rain</string>
+    <string name="nublado">Cloudy</string>
+    <string name="soleado">Sunny</string>
+    <string name="Bruma">Mist</string>
+
+
+
+
+</resources>
